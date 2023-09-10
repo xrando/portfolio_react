@@ -1,6 +1,5 @@
 import profile from './static/images/profile.jpg';
 import './App.css';
-import { Link } from "react-router-dom";
 
 function App() {
     const name = 'Benjamin Loh Choon How';
